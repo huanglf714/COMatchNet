@@ -26,7 +26,7 @@ The code is coming soon.
 
 # Example
 
-![](./images/results/Qualitative.png)
+![](./images/results/qualitative.png)
 
 **More qualitative results is in [bilibili](https://www.bilibili.com/video/BV1ry4y1M7zs/).**
 
